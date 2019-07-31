@@ -9,19 +9,19 @@ python 3.6+
 1. Create a text file called anime.txt
 2. Fill anime.txt with URLs to anilist.co's anime pages. Denote levels 1 to 5 using the following syntax:
 
-1 {
-https://anilist.co/anime/21520/Koyomimonogatari/  My mandatory, custom description
-https://anilist.co/anime/21745/Owarimonogatari-Ge/ My mandatory, custom description
-}
-2 {
-https://anilist.co/anime/103572/5Toubun-no-Hanayome/ My mandatory, custom description
+1 {<br>
+https://anilist.co/anime/21520/Koyomimonogatari/  My mandatory, custom description <br>
+https://anilist.co/anime/21745/Owarimonogatari-Ge/ My mandatory, custom description <br>
+} <br>
+2 { <br>
+https://anilist.co/anime/103572/5Toubun-no-Hanayome/ My mandatory, custom description <br>
 }
 
 
 3. Run anilistScrape.py and wait for all files to be created in the new anime/ directory
 
-4. Run JSON_builder.py to create a JSON based on the structure of anime/ and then copy the contents of the created file called 'anime_JSON.txt'
-  to the anime-anthology repo in src/managers/anime-manager
+4. Run JSON_builder.py to create a JSON based on the structure of anime/ and then copy the contents of the created file called 
+'anime_JSON.txt' to the anime-anthology repo in src/managers/anime-manager
   
 5. Run createAnimeData.py to copy the website's resources from the anime/ folder to a new folder called uploadToWebsite/
 
