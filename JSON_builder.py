@@ -174,11 +174,11 @@ def isInt(item):
 def determine_popularity_and_rank(data):
     return_data = []
 
-    for d in data:
-        value = d.split(' ')
-        correct_format = re.match(r'.*([1-3][0-9]{3})', d)
+    for i in range(0,2):
+        value = data[i].split(' ')
+        correct_format = re.match(r'.*([1-3][0-9]{3})', data[i])
 
-        if d == '' or (d.find("All Time") == -1 and correct_format is None):
+        if data[i] == '' or (data[i].find("All Time") == -1 and correct_format is None):
             return_data.append('')
         else:
             return_data.append(value[0][1:])
