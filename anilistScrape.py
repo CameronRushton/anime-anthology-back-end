@@ -7,6 +7,23 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.common.exceptions import NoSuchElementException
 
+def create_resource_path(anime_name):
+    try:
+        sub_dirs = [d for d in os.listdir('anime') if os.path.isdir(os.path.join('anime', d))]
+    except FileNotFoundError:
+        print(f'WARNING: directory \'anime\' does not exist; creating directory.')
+        return f'anime/{anime_name}/'
+
+    query = anime_name.replace('-', '').lower()
+    for directory in sub_dirs:
+        dir_name = directory.replace('-', '').lower()
+        if dir_name.find(query) != -1:
+            return f'anime/{directory}/'
+
+    return f'anime/{anime_name}/'
+
+
+
 HEADER = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:64.0) Gecko/20100101 Firefox/64.0',
           'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
           'Accept-Charset': 'ISO-8859-1,utf-8;q=0.7,*;q=0.3',
@@ -72,7 +89,7 @@ for url in urls:
     #animeNames[i] = animeNames[i][animeNames[i].find("-") + 1:].replace('\n', '')
     print("INFO: Downloading image and page data for " + animeNames[i] + "...")
     time.sleep(1)  # IMPORTANT: Keep this at least one second to not get flagged as a bot
-    resourcePath = "anime/" + animeNames[i] + "/"
+    resourcePath = create_resource_path(animeNames[i])
     try:
         os.makedirs(resourcePath + "images/")
         browser.get(url)  # Navigate to the page
