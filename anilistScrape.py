@@ -117,7 +117,7 @@ for url in urls:
                 c = {cookie['name']: cookie['value']}
                 session.cookies.update(c)
             resource = session.get(boxArtUrl, allow_redirects=True)
-            open(resourcePath + "images/" + animeNames[i] + "-anilist-box-art.jpg", 'wb').write(resource.content)
+            open(resourcePath + "images/" + animeNames[i].lower() + "-anilist-box-art.jpg", 'wb').write(resource.content)
 
             resourceCount += 1
         except ValueError:
@@ -143,7 +143,7 @@ for url in urls:
                 c = {cookie['name']: cookie['value']}
                 session.cookies.update(c)
             resource = session.get(coverImageUrl, allow_redirects=True)
-            open(resourcePath + "images/" + animeNames[i] + "-anilist-cover.jpg", 'wb').write(resource.content)
+            open(resourcePath + "images/" + animeNames[i].lower() + "-anilist-cover.jpg", 'wb').write(resource.content)
             resourceCount += 1
         except ValueError:
             # Failed to download image (may not exist)

@@ -36,7 +36,7 @@ for level in data:
 for path, dirs, files in os.walk("anime\\"):
     for name in files:
         source = path + "\\" + name
-        source = source.replace("\\", "/")
+        source = source.replace("\\", "/").lower()
         for i, boxArtPath in enumerate(boxArtPaths):
             print("Copying " + source + " -> " + boxArtPath)
             if source == boxArtPath:

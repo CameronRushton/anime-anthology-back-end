@@ -192,8 +192,8 @@ def createJSON(index, levelNumber):
     animeJSON = {
         "id": animeNames[index].lower(),
         "name": findDataItem("Romaji", data),
-        "boxArt": "assets/" + str(boxArtPaths[index]).replace("\\", "/"),
-        "background": "assets/" + str(backgroundPaths[index]).replace("\\", "/"),
+        "boxArt": "assets/" + str(boxArtPaths[index]).replace("\\", "/").lower(),
+        "background": "assets/" + str(backgroundPaths[index]).replace("\\", "/").lower(),
         "rank": data[0][1:-23],  # trim off first character and last 23 characters (#1 Highest Rated All Time)
         "popularity": pop_values[0],
         "popTime": pop_values[1],
