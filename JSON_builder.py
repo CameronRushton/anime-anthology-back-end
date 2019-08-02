@@ -171,15 +171,23 @@ def isInt(item):
     return True
 
 
-def determinePopularity(data):
+def determine_popularity_and_rank(data):
     return_data = []
-    popularity = data[1][1:-22]
-    if isInt(popularity):
-        return_data.append(popularity)
+
+    for i in range(0,2):
+        value = data[i].split(' ')
+        correct_format = re.match(r'.*([1-3][0-9]{3})', data[i])
+
+        if data[i] == '' or (data[i].find("All Time") == -1 and correct_format is None):
+            return_data.append('')
+        else:
+            return_data.append(value[0][1:])
+
+    if data[1].find("All Time") != -1:
         return_data.append("All Time")
     else:
-        return_data.append(data[1][1:-19])  # The value
-        return_data.append(data[1][-4:])  # The year
+        return_data.append(data[1].split(' ')[0][-1])
+
     return return_data
 
 
@@ -188,15 +196,15 @@ def createJSON(index, levelNumber):
     # open data file
     dataFile = open(dataFilePaths[index], "r")
     data = get_data_from_file(dataFile)
-    pop_values = determinePopularity(data)
+    pop_values = determine_popularity_and_rank(data)
     animeJSON = {
         "id": animeNames[index].lower(),
         "name": findDataItem("Romaji", data),
-        "boxArt": "assets/" + str(boxArtPaths[index]).replace("\\", "/"),
-        "background": "assets/" + str(backgroundPaths[index]).replace("\\", "/"),
-        "rank": data[0][1:-23],  # trim off first character and last 23 characters (#1 Highest Rated All Time)
-        "popularity": pop_values[0],
-        "popTime": pop_values[1],
+        "boxArt": "assets/" + str(boxArtPaths[index]).replace("\\", "/").lower(),
+        "background": "assets/" + str(backgroundPaths[index]).replace("\\", "/").lower(),
+        "rank": pop_values[0],  # trim off first character and last 23 characters (#1 Highest Rated All Time)
+        "popularity": pop_values[1],
+        "popTime": pop_values[2],
         "format": findDataItem("Format", data),
         "status": findDataItem("Status", data),
         "season": findDataItem("Season", data),
