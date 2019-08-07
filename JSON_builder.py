@@ -54,9 +54,6 @@ def get_data_from_file(dataFile):
 anthology = open("SAA.txt", "r")
 animeDLFile = open("anime.txt", "a") # Place to put anime URLs found in SAA.txt but no data is downloaded (scraper runs off this file)
 
-
-
-
 # Things that get populated
 dataFilePaths = []
 boxArtPaths = []
@@ -189,7 +186,6 @@ def determine_popularity_and_rank(data):
         return_data.append(data[1].split(' ')[0][-1])
 
     return return_data
-
 
 
 def createJSON(index, levelNumber):

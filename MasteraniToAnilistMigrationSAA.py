@@ -11,7 +11,6 @@ HEADER = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:64.0) Gecko/2010
           }
 
 CHROMEDRIVER_PATH = "/"  # This file's location
-animeNames = []
 options = Options()
 # options.add_argument('--headless')
 # options.add_argument('--no-sandbox')
@@ -32,9 +31,7 @@ file.close()
 for line in lines:
     for word in line.split(" "):
         if word.startswith("http"):
-            # url must match regex
-            pattern = "https://www.masterani[\\S]"  # Don't need to re.compile(pattern) because I'm only using it here
-            # save anime name
+            # save anime url
             animeToMigrateArray.append(word)
 
 for animeName in animeToMigrateArray:
