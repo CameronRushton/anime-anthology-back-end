@@ -52,7 +52,7 @@ def get_data_from_file(dataFile):
 
 
 anthology = open("SAA.txt", "r")
-animeDLFile = open("anime.txt", "a") # Place to put anime URLs found in SAA.txt but no data is downloaded (scraper runs off this file)
+animeDLFile = open("animeToDownload.txt", "a") # Place to put anime URLs found in SAA.txt but no data is downloaded (scraper runs off this file)
 
 # Things that get populated
 dataFilePaths = []
@@ -62,7 +62,6 @@ animeNames = []
 
 # Control variables
 newAnimeName = ""
-# DEFAULT_COVER_ART_PATH = "img\\default\\images\\absolute-duo-cover.jpg"
 data = False
 box_art = False
 cover = False
@@ -171,7 +170,7 @@ def isInt(item):
 def determine_popularity_and_rank(data):
     return_data = []
 
-    for i in range(0,2):
+    for i in range(0, 2):
         value = data[i].split(' ')
         correct_format = re.match(r'.*([1-3][0-9]{3})', data[i])
 
@@ -183,12 +182,20 @@ def determine_popularity_and_rank(data):
     if data[1].find("All Time") != -1:
         return_data.append("All Time")
     else:
-        return_data.append(data[1].split(' ')[0][-1])
+        pieces = data[1].split(' ')
+        return_data.append(pieces[len(pieces)-1])
 
     return return_data
 
 
-def createJSON(index, levelNumber):
+def checkBackgroundPath(path):
+    if path == '':
+        return path
+    else:
+        return "assets/" + str(path).replace("\\", "/").lower()
+
+
+def createJSON(index, levelNumber, arrayToAppendTo):
     # open data file
     dataFile = open(dataFilePaths[index], "r")
     data = get_data_from_file(dataFile)
@@ -197,8 +204,8 @@ def createJSON(index, levelNumber):
         "id": animeNames[index].lower(),
         "name": findDataItem("Romaji", data),
         "boxArt": "assets/" + str(boxArtPaths[index]).replace("\\", "/").lower(),
-        "background": "assets/" + str(backgroundPaths[index]).replace("\\", "/").lower(),
-        "rank": pop_values[0],  # trim off first character and last 23 characters (#1 Highest Rated All Time)
+        "background": checkBackgroundPath(backgroundPaths[index]),
+        "rank": pop_values[0],
         "popularity": pop_values[1],
         "popTime": pop_values[2],
         "format": findDataItem("Format", data),
@@ -224,7 +231,7 @@ def createJSON(index, levelNumber):
         animeJSON["releaseDate"] = findDataItem("Release Date", data)
         animeJSON["duration"] = findDataItem("Duration", data)
 
-    JSONLevels[int(levelNumber) - 1].append(animeJSON)
+    arrayToAppendTo[int(levelNumber) - 1].append(animeJSON)
 
 
 lines = get_data_from_file(anthology)
@@ -233,7 +240,6 @@ start = False
 levelNumber = ""
 JSONLevels = []
 for line in lines:
-    # if line == str(levelNumber) + " {":
     if re.match("[0-9]+ {", line):
         levelNumber = line[:-2]  # Strip off ' {' when line = '1 {' or '20 {'
         start = True
@@ -266,7 +272,48 @@ for line in lines:
                         startPoint = line.find(" ") + 1
                         descriptions[i] = line[startPoint:]
 
-                        createJSON(i, levelNumber)
+                        createJSON(i, levelNumber, JSONLevels)
+                        logger(word + " found and description added.")
+                        break
+                    elif i == len(animeNames) - 1:
+                        print(
+                            "WARN: Failed to find resources for " + word + "\nRun the scraper to download the missing anime.")
+                        # add the url to the list to download
+                        animeDLFile.write(url + " \n")
+
+start = False
+JSONcurrentlyWatching = [[]]
+for line in lines:
+    # if line == str(levelNumber) + " {":
+    if line == "c {":
+        start = True
+        continue
+    elif line == "}" and start:
+        start = False
+    if start:
+        for word in line.split(" "):
+            if word.startswith("http"):
+                url = word
+                # url must match regex
+                pattern = "https://anilist.co/anime/[\\S]"  # Don't need to re.compile(pattern) because I'm only using it here
+                if not re.match(pattern, url):
+                    print("ERROR: Invalid URL " + url)
+                    continue
+                # save anime name
+                if word[len(word) - 1] == '/':  # If last char is a '/', then remove it
+                    word = word[:-1]
+                k = word.rfind("/")
+                word = word[k + 1:]  # Strip left half of url, leaving the name
+                logger("Looking for '" + word + "'.")
+                # Scroll through each of the anime names until we find the one we're looking for. Use this index for all the data.
+                for i in range(0, len(animeNames)):
+                    if animeNames[i].lower() == word.lower(): # TODO: Replace me with a more robust string pattern matching system dragon-maid should still equal dragonMaid for instance.
+                        # print("DEBUG: Found at index " + str(i))
+                        # find first space in line to remove the url (Assuming that the description is all on the same line)
+                        startPoint = line.find(" ") + 1
+                        descriptions[i] = line[startPoint:]
+
+                        createJSON(i, 1, JSONcurrentlyWatching)
                         logger(word + " found and description added.")
                         break
                     elif i == len(animeNames) - 1:
@@ -279,6 +326,9 @@ for line in lines:
 logger("Finished")
 json_string = json.dumps(JSONLevels, indent=4)
 result_file = open("anime_JSON.txt", "w")
+result_file.write(json_string)
+result_file.write("\nCurrently Watching: \n")
+json_string = json.dumps(JSONcurrentlyWatching, indent=4)
 result_file.write(json_string)
 
 anthology.close()

@@ -7,6 +7,7 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.common.exceptions import NoSuchElementException
 
+
 def create_resource_path(anime_name):
     try:
         sub_dirs = [d for d in os.listdir('anime') if os.path.isdir(os.path.join('anime', d))]
@@ -23,7 +24,6 @@ def create_resource_path(anime_name):
     return f'anime/{anime_name}/'
 
 
-
 HEADER = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:64.0) Gecko/20100101 Firefox/64.0',
           'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
           'Accept-Charset': 'ISO-8859-1,utf-8;q=0.7,*;q=0.3',
@@ -32,7 +32,7 @@ HEADER = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:64.0) Gecko/2010
           'Connection': 'keep-alive'
           }
 # EXAMPLE_PROXY = {"https": "https//59.110.7.190:1080"}
-DOCUMENT = "SAA.txt"
+DOCUMENT = "animeToDownload.txt"
 CHROMEDRIVER_PATH = "/"  # This file's location
 REVISION_DATE = "2019-June-11"
 TOTAL_RESOURCE_COUNT = 3

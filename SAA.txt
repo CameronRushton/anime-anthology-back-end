@@ -1,5 +1,5 @@
 Shoyu's Anime Anthology
-version 19.5
+version 19.8.13
 
 To Watch in Sept 2019:
 Violet evergarden movie (Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou)
@@ -12,30 +12,33 @@ TO ADD:
 
 What I'm watching now:
 
-Summer 2019
-
-The wasteful days of high school girl
-Magical Sempai
-Katsute kami datta kemono-tachi e
-Are you lost?
-Maou-sama, retry!
-Dumbbell nan kilo moteru?
-Kanata no astra
+c {
+https://anilist.co/anime/105081/Joshikousei-no-Mudazukai/ I really really like this one! These girls are hilarious and I love their nicknames.
+https://anilist.co/anime/105074/Tejina-Senpai/ Remember dagashi kashi? The writer is back with this one, though it really isn't that good imo. Go watch dagashi kashi. They're got candy.
+https://anilist.co/anime/107672/Katsute-Kami-Datta-Kemonotachi-e/ Guy goes around killing his old monster squadmates with some girl trying to understand why.
+https://anilist.co/anime/108111/Sounan-desu-ka/ Girls are surviving on an island. Three are pretty useless and one is badass. It's also pretty educational.
+https://anilist.co/anime/104252/Maousama-Retry/ I like this one quite a bit. Blonde Ram (yes, Ram, look at her hair part) is really cute and the MC is pretty alright.
+https://anilist.co/anime/107226/Dumbbell-Nan-Kilo-Moteru/ This one is all about fitness. Really makes you wanna get fit. The OP is really catchy too!
+https://anilist.co/anime/107663/Kanata-no-Astra/ These kids are really unwanted and are lost in space. Also has some mystery element to it.
+https://anilist.co/anime/105333/Dr-Stone/ Rebuilding civilization with science.
+https://anilist.co/anime/101348/Vinland-Saga/ Vikings!
+https://anilist.co/anime/101167/Dungeon-ni-Deai-wo-Motomeru-no-wa-Machigatteiru-Darou-ka-II/ Does anyone even remember what happened in the first season? No? Me neither.
+https://anilist.co/anime/105932/Araburu-Kisetsu-no-Otomedomo-yo/ This one is a bit of a weird show, but it's kinda relatable. Embarrassing to say I'm watching it, but my curiousity is too strong.
+https://anilist.co/anime/105310/Enen-no-Shouboutai/ The best fire fighter anime out there, except the fires they fight are... well... people that burst into flames...
+}
 
 A Certain Scientific Accelerator
-ARABURU KISETSU NO OTOME-DOMO YO.
-Fire Force
 Cop Craft
 KAWAIKEREBA HENTAI DEMO SUKI NI NATTE KUREMASU KA?   <--- should I watch??
 ISEKAI CHEAT MAGICIAN <--- should I watch??
 MACHIKADO MAZOKU <--- ?
-
 Angel Beats
 Grand blue
 K On!
 kill la kill
 girls und panzer (?)
 psycho pass (dropped)
+A place further than the universe
 Havent started: The Magnificent Kotobuki
 Full metal panic
 your lie in april
@@ -45,51 +48,20 @@ my little sister otaku ... something
 Hyouka
 Just Beacause!
 koyomimonogatari
-
+The King's Avatar (Quan Zhi Gao Shou)
 spice and wolf
 Space Dandy
 Fairy Tail
 Kill la Kill
 Sound euphonium
 Love live sunshine
+Blend S
 cowboy bebop
 Psycho Pass
 WATATEN! AN ANGEL FLEW DOWN TO ME
 HITORIBOCCHI NO MARUMARU SEIKATSU
 
-Description
-There are 5 levels defined in this anthology.
-
-Level 1:
-Shoyu's top 10 anime ever seen, in no particular order.
-I guarantee that at last one of these shows is in your top 10 as well.
-
-Level 2:
-Other great anime that didn't quite make the cut into the top 10. They are the runners up.
-
-Level 3:
-These are good and some are great anime, but for various reasons, didn't make it to the top. Generally,
-anime that are in lower levels are worse, but this isn't always the case.
-You should watch these anime after you watch some of the ones (or all) in the first two levels.
-At this point, you should be a certified weeb and are losing your grip on life because of how great
-this is.
-
-Level 4:
-This level has anime that I wouldn't recommend for beginners. It may be complex, not define the anime genre well and turn people off
-or are just not good to watch. Since you should watch shows in this level after you're done with the other three levels, you
-may find some shows here to be either straight bad, or extremely interesting because of how complex or different the show is.
-Quality is very hit or miss. This is near the end game.
-
-Level 5:
-The end game. There is no more good anime to watch. This is where you'll find the crap, cringe and everything in between.
-Maybe you like a show in here - fine, but personally, I would recommend any other show from any other level first before even
-mentioning that a show in this level exists. Venture here as a last resort.
-
-Level 6: TODO
-
------------------**Level 1 - New to anime? Start with these. There will be something you like in here. We're just skimming the surface**-----------------
 1 {
-RECOMMENDED TO WATCH AT LEAST 4 OF THESE TO CONTINUE TO LEVEL 2
 https://anilist.co/anime/11061/Hunter-x-Hunter-2011/ Nice show about a kid becoming stronger and finding his dad. Dont think they did the chimera ant arc well because Gon's emotions aren't justified enough, but was entertaining nonetheless.
 https://anilist.co/anime/205/Samurai-Champloo/ No bullshit super powers. Clean samurai fights. Watch the dub.
 https://anilist.co/anime/20605/Tokyo-Ghoul/ Kid becomes a ghoul (basically has super powers) and now fights humans n stuff. This and the second season are pretty good, but :re is very not good. My dad thought the first bit of this one was cool though.
@@ -103,11 +75,7 @@ https://anilist.co/anime/16498/Shingeki-no-Kyojin/ Titans are eating our asses a
 https://anilist.co/anime/104578/Shingeki-no-Kyojin-3-Part-2/ This is where the show really develops and you understand so much more. Very good season.
 https://anilist.co/anime/199/Sen-to-Chihiro-no-Kamikakushi/ This is basically a disney film like princess mononoke. Suitable for all ages.
 }
-----------------------------**Level 2 - Yeah anime is cool, let's dig a little deeper. There's a few here you need to see**----------------------------
-
 2 {
-RECOMMENDED TO WATCH AT LEAST 5 OF THESE TO CONTINUE TO LEVEL 3
-
 https://anilist.co/anime/431/Howl-no-Ugoku-Shiro/ Another disney-like movie
 https://anilist.co/anime/13125/Shinsekai-yori/ This one hits you a little hard because the scenarios the kids are put in reflect the real world on a grand scale. Ethnicity, government politics, religion and other themes with some other dark themes. Still a very good show.
 https://anilist.co/anime/21827/Violet-Evergarden/ The story is lackluster and I dont find the MC, Violet, very interesting, and shes sort of meant to be... damaged, but the show is beautiful. This is one of those shows that makes you want to take up a hobby and this one is writing stories on a typewriter. There is one story that arcs the entire season but while this is happening, there's several, more powerful stories that are really deep.
@@ -122,7 +90,6 @@ https://anilist.co/anime/2167/Clannad/ Another Kyoto Animation special that will
 https://anilist.co/anime/20832/Overlord/ Overlord is another one of those 'trapped in an MMORPG' shows, but this time, it's just our MC and hes SUPER OP. The first season is just him trying out stuff and seeing how OP he really is, but the next couple seasons develop the plot towards world domination and it's very cool! Lots of world building, which people complained about, but shows shouldn't always be about action. Our MC also isn't inherently good! He can be considered neutral evil which is actually very refreshing!
 https://anilist.co/anime/100182/Sword-Art-Online-Alicization/ People bash SAO a lot but it really doesnt deserve all the hate. Yeah, I didnt like a lot of it either, but this show is different. Asuna is almost non-existent and Kirito isn't as OP. Give it a watch in between your main shows if you've already seen SAO.
 https://anilist.co/anime/20829/Owari-no-Seraph/ I remember the characters are a little gay, and the vampires disturb me a little, but this show was still nice to watch. Lots of action.
-https://anilist.co/anime/356/Fatestay-night/ The fate series is so huge. This one is very good though. Unlimited blade works is the version you should watch. Great action. Kinda like a hunger games thing.
 https://anilist.co/anime/10620/Mirai-Nikki-TV/ This show is the embodiment of my first girlfriend. Yuno is absolutely crazy about her boyfriend, Yuki, and Yuki just deals with it. This game is literally the hunger games but the gimmick is that everyone has a type of 'future diary' of their own.
 (Netflix Only https://www.netflix.com/watch/80095340) Castlevania - So NA CAN make anime. WOW. This one is also pretty damn good. If you liked Hellsing, you'll like this. Vampires and vampire slayers.
 https://anilist.co/anime/99423/Darling-in-the-Franxx/ This one has zero two in it. That's the best thing about this show. I still think Ichigo is best girl. Theres some themes here that give it some big mood, but the end parts were way rushed. Theme is VERY similar to suisei no garagntia.
@@ -132,13 +99,12 @@ https://anilist.co/anime/101291/Seishun-Buta-Yarou-wa-Bunny-Girlsenpai-no-Yume-w
 https://anilist.co/anime/101759/Yakusoku-no-Neverland/ Another dark show... These kids are fighting to survive in a tricky spot. That's all I can say. It's so amazing though. Lots of thought went into this.
 https://anilist.co/anime/21459/Boku-no-Hero-Academia/ I'd recommend this show for anyone. Great for all ages. I dont like super heroes, but I still watched all seasons of it till the end. You should too!
 https://anilist.co/anime/101280/Tensei-Shitara-Slime-Datta-Ken/ Issekai genre is still alive! Super basic story that has been done a million times, but this is so fresh. Reminds me of Overlord but you're the good guy this time.
+https://anilist.co/anime/10087/FateZero/ The fate series is super large and confusing but, this one is fantastic. Lots of action; a great watch.
 }
 3 {
-------------------------------------------------------**Level 3 - Good anime you can live without**------------------------------------------------------
-RECOMMENDED TO WATCH AT LEAST 10 OF THESE TO CONTINUE TO LEVEL 4
 https://anilist.co/anime/21087/One-Punch-Man/ Man kills anything in one punch. He's the strongest. Makes for REALLY boring fights. People say season 2 is worse but I think it's better because our MC isn't in it as much. It's a great show that only deserves one season and no more.
 https://anilist.co/anime/99420/Shoujo-Shuumatsu-Ryokou/ This one should be watched in between your main shows. It's very atmospheric as two girls travel and mess around in a post-apocalyptic, futuristic ruin of a world. Very cool. Be warned though, there's not much action - there's not meant to be.
-https://anilist.co/anime/10087/FateZero/ Another Fate edition which is also very good.
+https://anilist.co/anime/356/Fatestay-night/ The fate series is so huge. This one is very good though. Unlimited blade works is the version you should watch. Great action. Kinda like a hunger games thing.
 https://anilist.co/anime/8425/Gosick/ This whole show is a great adventure with a main theme of solving mysteries. Quite enjoyable.
 https://anilist.co/anime/21428/Hai-to-Gensou-no-Grimgar/ This is another MMORPG isekai but this time, the things you kill to level up are exactly as dangerous as you would expect them irl. No goblin that can think for itself is going to let you kill it. They have a family too.
 https://anilist.co/anime/20447/Noragami/ Love this OP. The story is OK. Our MC is a god but he has no followers so he kinda just hangs out and stuff. Ends up going on a bit of an adventure. Good amounts of action. Kinda reminds me of Bleach.
@@ -191,12 +157,8 @@ https://anilist.co/anime/99255/Shokugeki-no-Souma-San-no-Sara/ Even after the th
 https://anilist.co/anime/20722/Barakamon/ I didnt really like this one, but it's apparently good. A calligrapher looks to find himself and perfect his work while away. It's pretty funny.
 https://anilist.co/anime/103871/Zombie-Land-Saga/ VA of Hyojin Kyoma from Steins;Gate. Mostly about idols and less about zombies. Still a good watch.
 https://anilist.co/anime/21878/Gabriel-Dropout/ Really hard to find a stream of. Not a bad show. Moe, kinda funny. A little aimless.
-
 }
 4 {
-------------------------------------------------------------------**Level 4 - Near end game**------------------------------------------------------------------
-RECOMMENDED TO WATCH AT LEAST 70 TOTAL SHOWS TO CONTINUE TO LEVEL 5 OR VENTURE FORTH AS A LAST RESORT IF YOU'RE BRAVE
-
 https://anilist.co/anime/5081/Bakemonogatari/ Monogatari is legendary. One of the best shows I've seen EVER. The watch order is highly debated. I would recommend two different watch orders. Watch this one first. Now, before I continue, this series happened like Halo did. Release 1 - 3 then Reach's events happened before 1, etc... The most important thing in this show is when you watch the movie about what happens first chronologically. This was released in 2017, well into the series. Purists will tell you to watch it like they had to when the series was airing, meaning the movie way at the end, but this is not at all how the original LN/author wanted you to see it. Only do the airing order route if you watch EVERYTHING within a month so that you can remember what happens because each story is VERY much connected and sometimes runs parallel to other stories.
 https://anilist.co/anime/11597/Nisemonogatari/ Watch me second for airing order. Watch me fourth for chronological order.
 https://anilist.co/anime/15689/Nekomonogatari-Kuro/ Watch me third for airing order. Watch me second for chronological order.
@@ -220,13 +182,11 @@ https://anilist.co/anime/1726/Devil-May-Cry/ Man likes murdering demons and stra
 https://anilist.co/anime/99629/Satsuriku-no-Tenshi/ Our MC is really screwed up in the head and she goes through many floors of nightmares as we uncover her back story and why an innocent little girl in here.
 https://anilist.co/anime/8769/Ore-no-Imouto-ga-Konna-ni-Kawaii-Wake-ga-Nai/
 https://anilist.co/anime/15809/Hataraku-Maousama/ Devil is a part-timer at McDonalds and enjoys it.
-https://anilist.co/anime/10165/Nichijou/
+https://anilist.co/anime/10165/Nichijou/ The comedy in this show is very Japanese, so you probably won't understand it, but damn is it ever random and funny. Lots of memes made from this one.
 https://anilist.co/anime/97832/Citrus/ Ending drama is stupid, otherwise alright show
-https://anilist.co/anime/104454/Isekai-Quartet/ Good show. Just very extra and half as long. Should watch all four isekais before starting it. (Youjo senki, Overlord, Re:Zero, Konosuba)
+https://anilist.co/anime/104454/Isekai-Quartet/ Good show. Just very extra and half as long as a normal show. Should watch all four isekais before starting it. (Youjo senki, Overlord, Re:Zero, Konosuba)
 }
 5 {
--------------------------------**Level 5 - I've seen it all; there's nothing notable to watch. Let's really dig in the depths of anime hell**-------------------------------
-
 https://anilist.co/anime/20457/Black-Bullet/ Earth defense force 2025
 https://anilist.co/anime/226/Elfen-Lied/ Did you really think that Stranger Things was OC? HA. Yeah, it was based on this show. The things you know and love all boil down to anime.
 https://anilist.co/anime/98320/Koi-to-Uso/ Another romance show but damn the MC is so indecisive. Watch the beginning... it's cute and seems good, but damn does it go down hill.
