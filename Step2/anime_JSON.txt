@@ -1,0 +1,771 @@
+[
+    [
+        {
+            "id": "joshikousei-no-mudazukai",
+            "name": "Joshikousei no Mudazukai",
+            "boxArt": "assets/anime/joshikousei-no-mudazukai/images/joshikousei-no-mudazukai-anilist-box-art.jpg",
+            "background": "",
+            "rank": "48",
+            "popularity": "54",
+            "popTime": "2019",
+            "format": "TV",
+            "status": "Releasing",
+            "season": "Summer 2019",
+            "score": "67",
+            "source": "Manga",
+            "studios": [
+                "Passione"
+            ],
+            "producers": [],
+            "synonyms": [
+                "Wasteful Days of High School Girls",
+                ""
+            ],
+            "genres": [
+                "Comedy",
+                "Slice of Life"
+            ],
+            "customTags": [
+                {
+                    "name": "Yuri",
+                    "percent": "20"
+                },
+                {
+                    "name": "Primarily Female Cast",
+                    "percent": "72"
+                },
+                {
+                    "name": "School",
+                    "percent": "84"
+                }
+            ],
+            "description": "I really really like this one! These girls are hilarious and I love their nicknames.",
+            "watch": {},
+            "startDate": "",
+            "endDate": "",
+            "episodes": "12",
+            "episodeDuration": "24 mins"
+        },
+        {
+            "id": "tejina-senpai",
+            "name": "Tejina Senpai",
+            "boxArt": "assets/anime/tejina-senpai/images/tejina-senpai-anilist-box-art.jpg",
+            "background": "assets/anime/tejina-senpai/images/tejina-senpai-anilist-cover.jpg",
+            "rank": "28",
+            "popularity": "8",
+            "popTime": "2019",
+            "format": "TV Short",
+            "status": "Releasing",
+            "season": "Summer 2019",
+            "score": "61",
+            "source": "Manga",
+            "studios": [
+                "LIDENFILMS"
+            ],
+            "producers": [],
+            "synonyms": [
+                "Magical Sempai",
+                "Magical Senpai"
+            ],
+            "genres": [
+                "Comedy",
+                "Ecchi",
+                "Romance"
+            ],
+            "customTags": [
+                {
+                    "name": "Gyaru",
+                    "percent": "20"
+                },
+                {
+                    "name": "Episodic",
+                    "percent": "50"
+                },
+                {
+                    "name": "Slapstick",
+                    "percent": "64"
+                },
+                {
+                    "name": "Magic",
+                    "percent": "65"
+                },
+                {
+                    "name": "School Club",
+                    "percent": "73"
+                },
+                {
+                    "name": "School",
+                    "percent": "82"
+                }
+            ],
+            "description": "Remember dagashi kashi? The writer is back with this one, though it really isn't that good imo. Go watch dagashi kashi. They're got candy.",
+            "watch": {}
+        },
+        {
+            "id": "katsute-kami-datta-kemonotachi-e",
+            "name": "Katsute Kami Datta Kemono-tachi e",
+            "boxArt": "assets/anime/katsute-kami-datta-kemonotachi-e/images/katsute-kami-datta-kemonotachi-e-anilist-box-art.jpg",
+            "background": "assets/anime/katsute-kami-datta-kemonotachi-e/images/katsute-kami-datta-kemonotachi-e-anilist-cover.jpg",
+            "rank": "53",
+            "popularity": "47",
+            "popTime": "2019",
+            "format": "TV",
+            "status": "Releasing",
+            "season": "Summer 2019",
+            "score": "63",
+            "source": "Manga",
+            "studios": [
+                "MAPPA"
+            ],
+            "producers": [],
+            "synonyms": [
+                "To the Abandoned Sacred Beasts",
+                ""
+            ],
+            "genres": [
+                "Action",
+                "Drama",
+                "Fantasy"
+            ],
+            "customTags": [
+                {
+                    "name": "Kaiju",
+                    "percent": "20"
+                },
+                {
+                    "name": "Military",
+                    "percent": "20"
+                },
+                {
+                    "name": "Foreign",
+                    "percent": "35"
+                },
+                {
+                    "name": "Dragons",
+                    "percent": "40"
+                },
+                {
+                    "name": "Guns",
+                    "percent": "40"
+                },
+                {
+                    "name": "Historical",
+                    "percent": "60"
+                },
+                {
+                    "name": "Werewolf",
+                    "percent": "60"
+                },
+                {
+                    "name": "War",
+                    "percent": "70"
+                }
+            ],
+            "description": "Guy goes around killing his old monster squadmates with some girl trying to understand why.",
+            "watch": {},
+            "startDate": "",
+            "endDate": "",
+            "episodes": "12",
+            "episodeDuration": "24 mins"
+        },
+        {
+            "id": "sounan-desu-ka",
+            "name": "Sounan desu ka?",
+            "boxArt": "assets/anime/sounan-desu-ka/images/sounan-desu-ka-anilist-box-art.jpg",
+            "background": "assets/anime/sounan-desu-ka/images/sounan-desu-ka-anilist-cover.jpg",
+            "rank": "37",
+            "popularity": "6",
+            "popTime": "2019",
+            "format": "TV Short",
+            "status": "Releasing",
+            "season": "Summer 2019",
+            "score": "63",
+            "source": "Manga",
+            "studios": [
+                "Ezo\u2019la"
+            ],
+            "producers": [],
+            "synonyms": [
+                "Are You Lost?",
+                ""
+            ],
+            "genres": [
+                "Adventure",
+                "Comedy",
+                "Ecchi"
+            ],
+            "customTags": [
+                {
+                    "name": "Cute Girls Doing Cute Things",
+                    "percent": "71"
+                },
+                {
+                    "name": "Educational",
+                    "percent": "74"
+                },
+                {
+                    "name": "Primarily Female Cast",
+                    "percent": "84"
+                },
+                {
+                    "name": "Survival",
+                    "percent": "100"
+                }
+            ],
+            "description": "Girls are surviving on an island. Three are pretty useless and one is badass. It's also pretty educational.",
+            "watch": {}
+        },
+        {
+            "id": "maousama-retry",
+            "name": "Maou-sama, Retry!",
+            "boxArt": "assets/anime/maousama-retry/images/maousama-retry-anilist-box-art.jpg",
+            "background": "",
+            "rank": "69",
+            "popularity": "42",
+            "popTime": "2019",
+            "format": "TV",
+            "status": "Releasing",
+            "season": "Summer 2019",
+            "score": "56",
+            "source": "Light Novel",
+            "studios": [
+                "EKACHI EPILKA"
+            ],
+            "producers": [],
+            "synonyms": [
+                "Demon Lord, Retry!",
+                ""
+            ],
+            "genres": [
+                "Action",
+                "Adventure",
+                "Fantasy"
+            ],
+            "customTags": [
+                {
+                    "name": "Parody",
+                    "percent": "45"
+                },
+                {
+                    "name": "Male Protagonist",
+                    "percent": "60"
+                },
+                {
+                    "name": "Demons",
+                    "percent": "64"
+                },
+                {
+                    "name": "Anti-Hero",
+                    "percent": "79"
+                },
+                {
+                    "name": "Isekai",
+                    "percent": "90"
+                }
+            ],
+            "description": "I like this one quite a bit. Blonde Ram (yes, Ram, look at her hair part) is really cute and the MC is pretty alright.",
+            "watch": {},
+            "startDate": "",
+            "endDate": "",
+            "episodes": "12",
+            "episodeDuration": "24 mins"
+        },
+        {
+            "id": "dumbbell-nan-kilo-moteru",
+            "name": "Dumbbell Nan Kilo Moteru?",
+            "boxArt": "assets/anime/dumbbell-nan-kilo-moteru/images/dumbbell-nan-kilo-moteru-anilist-box-art.jpg",
+            "background": "assets/anime/dumbbell-nan-kilo-moteru/images/dumbbell-nan-kilo-moteru-anilist-cover.jpg",
+            "rank": "31",
+            "popularity": "28",
+            "popTime": "2019",
+            "format": "TV",
+            "status": "Releasing",
+            "season": "Summer 2019",
+            "score": "72",
+            "source": "Manga",
+            "studios": [
+                "Doga Kobo"
+            ],
+            "producers": [],
+            "synonyms": [
+                "How Heavy Are the Dumbbells You Lift?",
+                "How Many Kilograms are the Dumbbells You Lift?"
+            ],
+            "genres": [
+                "Comedy",
+                "Ecchi",
+                "Sports",
+                "Slice of Life"
+            ],
+            "customTags": [
+                {
+                    "name": "Meta",
+                    "percent": "60"
+                },
+                {
+                    "name": "Food",
+                    "percent": "60"
+                },
+                {
+                    "name": "Gyaru",
+                    "percent": "69"
+                },
+                {
+                    "name": "Primarily Female Cast",
+                    "percent": "72"
+                },
+                {
+                    "name": "Go",
+                    "percent": "79"
+                },
+                {
+                    "name": "Female Protagonist",
+                    "percent": "82"
+                },
+                {
+                    "name": "Educational",
+                    "percent": "82"
+                },
+                {
+                    "name": "Athletics",
+                    "percent": "85"
+                },
+                {
+                    "name": "Fitness",
+                    "percent": "100"
+                }
+            ],
+            "description": "This one is all about fitness. Really makes you wanna get fit. The OP is really catchy too!",
+            "watch": {},
+            "startDate": "",
+            "endDate": "",
+            "episodes": "12",
+            "episodeDuration": "24 mins"
+        },
+        {
+            "id": "kanata-no-astra",
+            "name": "Kanata no Astra",
+            "boxArt": "assets/anime/kanata-no-astra/images/kanata-no-astra-anilist-box-art.jpg",
+            "background": "assets/anime/kanata-no-astra/images/kanata-no-astra-anilist-cover.jpg",
+            "rank": "35",
+            "popularity": "35",
+            "popTime": "2019",
+            "format": "TV",
+            "status": "Releasing",
+            "season": "Summer 2019",
+            "score": "71",
+            "source": "Manga",
+            "studios": [
+                "Lerche"
+            ],
+            "producers": [],
+            "synonyms": [
+                "ASTRA LOST IN SPACE",
+                ""
+            ],
+            "genres": [
+                "Adventure",
+                "Mystery",
+                "Sci-Fi"
+            ],
+            "customTags": [
+                {
+                    "name": "CGI",
+                    "percent": "26"
+                },
+                {
+                    "name": "Gyaru",
+                    "percent": "46"
+                },
+                {
+                    "name": "Shounen",
+                    "percent": "60"
+                },
+                {
+                    "name": "Coming of Age",
+                    "percent": "79"
+                },
+                {
+                    "name": "Ensemble Cast",
+                    "percent": "84"
+                },
+                {
+                    "name": "Survival",
+                    "percent": "95"
+                },
+                {
+                    "name": "Space",
+                    "percent": "100"
+                }
+            ],
+            "description": "These kids are really unwanted and are lost in space. Also has some mystery element to it.",
+            "watch": {},
+            "startDate": "",
+            "endDate": "",
+            "episodes": "12",
+            "episodeDuration": "24 mins"
+        },
+        {
+            "id": "dr-stone",
+            "name": "Dr. STONE",
+            "boxArt": "assets/anime/dr-stone/images/dr-stone-anilist-box-art.jpg",
+            "background": "assets/anime/dr-stone/images/dr-stone-anilist-cover.jpg",
+            "rank": "295",
+            "popularity": "211",
+            "popTime": "All Time",
+            "format": "TV",
+            "status": "Releasing",
+            "season": "Summer 2019",
+            "score": "78",
+            "source": "Manga",
+            "studios": [
+                "TMS Entertainment"
+            ],
+            "producers": [],
+            "synonyms": [
+                "Dr. STONE",
+                ""
+            ],
+            "genres": [
+                "Adventure",
+                "Sci-Fi",
+                "Action",
+                "Comedy"
+            ],
+            "customTags": [
+                {
+                    "name": "Guns",
+                    "percent": "44"
+                },
+                {
+                    "name": "Shounen",
+                    "percent": "73"
+                },
+                {
+                    "name": "Educational",
+                    "percent": "74"
+                },
+                {
+                    "name": "Time Skip",
+                    "percent": "78"
+                },
+                {
+                    "name": "Male Protagonist",
+                    "percent": "80"
+                },
+                {
+                    "name": "Survival",
+                    "percent": "89"
+                },
+                {
+                    "name": "Post-Apocalyptic",
+                    "percent": "94"
+                }
+            ],
+            "description": "Rebuilding civilization with science.",
+            "watch": {},
+            "startDate": "",
+            "endDate": "",
+            "episodes": "24",
+            "episodeDuration": "24 mins"
+        },
+        {
+            "id": "vinland-saga",
+            "name": "Vinland Saga",
+            "boxArt": "assets/anime/vinland-saga/images/vinland-saga-anilist-box-art.jpg",
+            "background": "assets/anime/vinland-saga/images/vinland-saga-anilist-cover.jpg",
+            "rank": "142",
+            "popularity": "377",
+            "popTime": "All Time",
+            "format": "TV",
+            "status": "Releasing",
+            "season": "Summer 2019",
+            "score": "81",
+            "source": "Manga",
+            "studios": [
+                "Wit Studio"
+            ],
+            "producers": [
+                "Twin Engine",
+                "Kodansha",
+                "Production I.G"
+            ],
+            "synonyms": [
+                "VINLAND SAGA",
+                ""
+            ],
+            "genres": [
+                "Adventure",
+                "Action",
+                "Drama"
+            ],
+            "customTags": [
+                {
+                    "name": "Time Skip",
+                    "percent": "20"
+                },
+                {
+                    "name": "CGI",
+                    "percent": "46"
+                },
+                {
+                    "name": "Slavery",
+                    "percent": "50"
+                },
+                {
+                    "name": "Pirates",
+                    "percent": "57"
+                },
+                {
+                    "name": "Primarily Male Cast",
+                    "percent": "60"
+                },
+                {
+                    "name": "Primarily Adult Cast",
+                    "percent": "64"
+                },
+                {
+                    "name": "Swordplay",
+                    "percent": "72"
+                },
+                {
+                    "name": "Revenge",
+                    "percent": "74"
+                },
+                {
+                    "name": "War",
+                    "percent": "78"
+                },
+                {
+                    "name": "Gore",
+                    "percent": "80"
+                },
+                {
+                    "name": "Military",
+                    "percent": "82"
+                },
+                {
+                    "name": "Seinen",
+                    "percent": "83"
+                },
+                {
+                    "name": "Anti-Hero",
+                    "percent": "84"
+                },
+                {
+                    "name": "Historical",
+                    "percent": "89"
+                },
+                {
+                    "name": "Male Protagonist",
+                    "percent": "90"
+                },
+                {
+                    "name": "Coming of Age",
+                    "percent": "90"
+                },
+                {
+                    "name": "Foreign",
+                    "percent": "94"
+                }
+            ],
+            "description": "Vikings!",
+            "watch": {},
+            "startDate": "",
+            "endDate": "",
+            "episodes": "24",
+            "episodeDuration": "24 mins"
+        },
+        {
+            "id": "dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-ii",
+            "name": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II",
+            "boxArt": "assets/anime/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-ii/images/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-ii-anilist-box-art.jpg",
+            "background": "assets/anime/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-ii/images/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-ii-anilist-cover.jpg",
+            "rank": "353",
+            "popularity": "295",
+            "popTime": "All Time",
+            "format": "TV",
+            "status": "Releasing",
+            "season": "Summer 2019",
+            "score": "76",
+            "source": "Light Novel",
+            "studios": [
+                "J.C. Staff"
+            ],
+            "producers": [
+                "EGG FIRM"
+            ],
+            "synonyms": [
+                "Is It Wrong to Try to Pick Up Girls in a Dungeon? II",
+                ""
+            ],
+            "genres": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Fantasy",
+                "Romance"
+            ],
+            "customTags": [
+                {
+                    "name": "Kemonomimi",
+                    "percent": "42"
+                },
+                {
+                    "name": "Harem",
+                    "percent": "64"
+                },
+                {
+                    "name": "Mythology",
+                    "percent": "67"
+                },
+                {
+                    "name": "Swordplay",
+                    "percent": "69"
+                },
+                {
+                    "name": "Magic",
+                    "percent": "71"
+                },
+                {
+                    "name": "Shounen",
+                    "percent": "74"
+                },
+                {
+                    "name": "Gods",
+                    "percent": "86"
+                },
+                {
+                    "name": "Male Protagonist",
+                    "percent": "96"
+                },
+                {
+                    "name": "Dungeon",
+                    "percent": "98"
+                }
+            ],
+            "description": "Does anyone even remember what happened in the first season? No? Me neither.",
+            "watch": {},
+            "startDate": "",
+            "endDate": "",
+            "episodes": "12",
+            "episodeDuration": "24 mins"
+        },
+        {
+            "id": "araburu-kisetsu-no-otomedomo-yo",
+            "name": "Araburu Kisetsu no Otome-domo yo.",
+            "boxArt": "assets/anime/araburu-kisetsu-no-otomedomo-yo/images/araburu-kisetsu-no-otomedomo-yo-anilist-box-art.jpg",
+            "background": "assets/anime/araburu-kisetsu-no-otomedomo-yo/images/araburu-kisetsu-no-otomedomo-yo-anilist-cover.jpg",
+            "rank": "21",
+            "popularity": "34",
+            "popTime": "2019",
+            "format": "TV",
+            "status": "Releasing",
+            "season": "Summer 2019",
+            "score": "75",
+            "source": "Manga",
+            "studios": [
+                "Lay-duce"
+            ],
+            "producers": [],
+            "synonyms": [
+                "O Maidens in Your Savage Season",
+                ""
+            ],
+            "genres": [
+                "Romance",
+                "Slice of Life",
+                "Drama"
+            ],
+            "customTags": [
+                {
+                    "name": "Seinen",
+                    "percent": "40"
+                },
+                {
+                    "name": "School Club",
+                    "percent": "56"
+                },
+                {
+                    "name": "Primarily Female Cast",
+                    "percent": "73"
+                },
+                {
+                    "name": "Female Protagonist",
+                    "percent": "82"
+                },
+                {
+                    "name": "Coming of Age",
+                    "percent": "96"
+                }
+            ],
+            "description": "This one is a bit of a weird show, but it's kinda relatable. Embarrassing to say I'm watching it, but my curiousity is too strong.",
+            "watch": {},
+            "startDate": "",
+            "endDate": "",
+            "episodes": "12",
+            "episodeDuration": "24 mins"
+        },
+        {
+            "id": "enen-no-shouboutai",
+            "name": "Enen no Shouboutai",
+            "boxArt": "assets/anime/enen-no-shouboutai/images/enen-no-shouboutai-anilist-box-art.jpg",
+            "background": "assets/anime/enen-no-shouboutai/images/enen-no-shouboutai-anilist-cover.jpg",
+            "rank": "365",
+            "popularity": "279",
+            "popTime": "All Time",
+            "format": "TV",
+            "status": "Releasing",
+            "season": "Summer 2019",
+            "score": "76",
+            "source": "Manga",
+            "studios": [
+                "David Production"
+            ],
+            "producers": [],
+            "synonyms": [
+                "Fire Force",
+                ""
+            ],
+            "genres": [
+                "Action",
+                "Comedy",
+                "Drama",
+                "Sci-Fi",
+                "Supernatural"
+            ],
+            "customTags": [
+                {
+                    "name": "CGI",
+                    "percent": "20"
+                },
+                {
+                    "name": "Male Protagonist",
+                    "percent": "57"
+                },
+                {
+                    "name": "Ensemble Cast",
+                    "percent": "60"
+                },
+                {
+                    "name": "Shounen",
+                    "percent": "85"
+                },
+                {
+                    "name": "Demons",
+                    "percent": "86"
+                },
+                {
+                    "name": "Super Power",
+                    "percent": "91"
+                }
+            ],
+            "description": "The best fire fighter anime out there, except the fires they fight are... well... people that burst into flames...",
+            "watch": {},
+            "startDate": "",
+            "endDate": "",
+            "episodes": "24",
+            "episodeDuration": "24 mins"
+        }
+    ]
+]

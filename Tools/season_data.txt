@@ -1,0 +1,445 @@
+[
+    {
+        "group-9": [
+            "dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka",
+            "dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-ii",
+            "dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-dungeon-ni-onsen-wo-motomeru-no-wa-machigatteiru-darou-ka"
+        ]
+    },
+    {
+        "group-14": [
+            "tokyo-ghoul-jack",
+            "tokyo-ghoul",
+            "tokyo-ghoul-a",
+            "tokyo-ghoulre",
+            "tokyo-ghoulre-2"
+        ]
+    },
+    {
+        "group-15": [
+            "rezero-kara-hajimeru-isekai-seikatsu",
+            "rezero-kara-hajimeru-isekai-seikatsu-2"
+        ]
+    },
+    {
+        "group-18": [
+            "steinsgate",
+            "steinsgate-oukoubakko-no-poriomania",
+            "steinsgate-fuka-ryouiki-no-dj-vu"
+        ]
+    },
+    {
+        "group-21": [
+            "shingeki-no-kyojin-ova",
+            "shingeki-no-kyojin",
+            "shingeki-no-kyojin-2",
+            "shingeki-no-kyojin-3",
+            "shingeki-no-kyojin-3-part-2",
+            "shingeki-no-kyojin-the-final-season"
+        ]
+    },
+    {
+        "group-26": [
+            "tate-no-yuusha-no-nariagari",
+            "tate-no-yuusha-no-nariagari-2",
+            "tate-no-yuusha-no-nariagari-3"
+        ]
+    },
+    {
+        "group-28": [
+            "natsume-yuujinchou",
+            "zoku-natsume-yuujinchou",
+            "natsume-yuujinchou-san",
+            "natsume-yuujinchou-shi",
+            "natsume-yuujinchou-go",
+            "natsume-yuujinchou-roku"
+        ]
+    },
+    {
+        "group-29": [
+            "log-horizon",
+            "log-horizon-2"
+        ]
+    },
+    {
+        "group-32": [
+            "made-in-abyss",
+            "made-in-abyss-fukaki-tamashii-no-reimei"
+        ]
+    },
+    {
+        "group-33": [
+            "clannad",
+            "clannad-after-story"
+        ]
+    },
+    {
+        "group-34": [
+            "overlord",
+            "overlord-ii",
+            "overlord-iii"
+        ]
+    },
+    {
+        "group-35": [
+            "sword-art-online",
+            "sword-art-online-extra-edition",
+            "sword-art-online-ii",
+            "sword-art-online-movie-ordinal-scale",
+            "sword-art-online-alicization",
+            "sword-art-online-alicization--war-of-underworld"
+        ]
+    },
+    {
+        "group-36": [
+            "owari-no-seraph",
+            "owari-no-seraph-kyuuketsuki-shahal",
+            "owari-no-seraph-nagoya-kessenhen"
+        ]
+    },
+    {
+        "group-37": [
+            "mirai-nikki-tv",
+            "mirai-nikki-redial"
+        ]
+    },
+    {
+        "group-39": [
+            "mahoutsukai-no-yome-hoshi-matsu-hito",
+            "mahoutsukai-no-yome"
+        ]
+    },
+    {
+        "group-40": [
+            "kokoro-connect",
+            "kokoro-connect-michi-random"
+        ]
+    },
+    {
+        "group-41": [
+            "seishun-buta-yarou-wa-bunny-girlsenpai-no-yume-wo-minai",
+            "seishun-buta-yarou-wa-yumemiru-shoujo-no-yume-wo-minai-movie"
+        ]
+    },
+    {
+        "group-42": [
+            "yakusoku-no-neverland",
+            "yakusoku-no-neverland-2nd-season"
+        ]
+    },
+    {
+        "group-43": [
+            "boku-no-hero-academia",
+            "boku-no-hero-academia-ova",
+            "boku-no-hero-academia-2",
+            "boku-no-hero-academia-3",
+            "boku-no-hero-academia-4"
+        ]
+    },
+    {
+        "group-44": [
+            "tensei-shitara-slime-datta-ken",
+            "tensei-shitara-slime-datta-ken-2nd-season"
+        ]
+    },
+    {
+        "group-45": [
+            "fatezero",
+            "fatezero-2nd-season",
+            "fatestay-night-unlimited-blade-works",
+            "fatestay-night-unlimited-blade-works-2nd-season"
+        ]
+    },
+    {
+        "group-46": [
+            "one-punch-man-road-to-hero",
+            "one-punch-man",
+            "one-punch-man-2"
+        ]
+    },
+    {
+        "group-50": [
+            "noragami",
+            "noragami-aragoto"
+        ]
+    },
+    {
+        "group-51": [
+            "suisei-no-gargantia",
+            "suisei-no-gargantia-ova",
+            "suisei-no-gargantia-meguru-kouro-haruka"
+        ]
+    },
+    {
+        "group-52": [
+            "no-game-no-life-zero",
+            "no-game-no-life"
+        ]
+    },
+    {
+        "group-54": [
+            "black-lagoon",
+            "black-lagoon-the-second-barrage",
+            "black-lagoon-robertas-blood-trail"
+        ]
+    },
+    {
+        "group-55": [
+            "drifters",
+            "drifters-ova"
+        ]
+    },
+    {
+        "group-56": [
+            "k",
+            "k-missing-kings",
+            "k-return-of-kings"
+        ]
+    },
+    {
+        "group-57": [
+            "youjo-senki",
+            "youjo-senki-movie"
+        ]
+    },
+    {
+        "group-58": [
+            "hellsing-the-dawn",
+            "hellsing-ultimate"
+        ]
+    },
+    {
+        "group-62": [
+            "high-school-dxd",
+            "high-school-dxd-ova",
+            "high-school-dxd-new",
+            "high-school-dxd-new-ova-oppai-tsutsumimasu",
+            "high-school-dxd-born",
+            "high-school-dxd-born-yomigaeranai-fushichou",
+            "high-school-dxd-hero"
+        ]
+    },
+    {
+        "group-63": [
+            "highschool-of-the-dead",
+            "gakuen-mokushiroku-highschool-of-the-dead-drifters-of-the-dead"
+        ]
+    },
+    {
+        "group-67": [
+            "dagashi-kashi",
+            "dagashi-kashi-2"
+        ]
+    },
+    {
+        "group-69": [
+            "kono-subarashii-sekai-ni-shukufuku-wo",
+            "kono-subarashii-sekai-ni-shukufuku-wo-2",
+            "kono-subarashii-sekai-ni-shukufuku-wo-kurenai-densetsu"
+        ]
+    },
+    {
+        "group-70": [
+            "mob-psycho-100",
+            "mob-psycho-100-ii"
+        ]
+    },
+    {
+        "group-74": [
+            "shirobako",
+            "shirobako-movie"
+        ]
+    },
+    {
+        "group-75": [
+            "relife",
+            "relife-kanketsuhen"
+        ]
+    },
+    {
+        "group-77": [
+            "yahari-ore-no-seishun-love-comedy-wa-machigatteiru",
+            "yahari-ore-no-seishun-love-comedy-wa-machigatteiru-zoku",
+            "yahari-ore-no-seishun-love-comedy-wa-machigatteiru-3rd-season"
+        ]
+    },
+    {
+        "group-78": [
+            "karakai-jouzu-no-takagisan",
+            "karakai-jouzu-no-takagisan-2"
+        ]
+    },
+    {
+        "group-81": [
+            "kobayashisan-chi-no-maidragon",
+            "kobayashisan-chi-no-maidragon-valentine-soshite-onsen--amari-kitai-shinaide-kudasai"
+        ]
+    },
+    {
+        "group-82": [
+            "new-game",
+            "new-game-watashi-shain-ryokou-tte-hajimete-na-node",
+            "new-game-2"
+        ]
+    },
+    {
+        "group-84": [
+            "5toubun-no-hanayome",
+            "5toubun-no-hanayome-2"
+        ]
+    },
+    {
+        "group-86": [
+            "yuru-yuri",
+            "yuru-yuri-2"
+        ]
+    },
+    {
+        "group-87": [
+            "yuru-camp",
+            "yuru-camp-2"
+        ]
+    },
+    {
+        "group-88": [
+            "demichan-wa-kataritai",
+            "demichan-wa-kataritai-demichan-no-natsuyasumi"
+        ]
+    },
+    {
+        "group-90": [
+            "shokugeki-no-souma",
+            "shokugeki-no-souma-ni-no-sara",
+            "shokugeki-no-souma-ni-no-sara-ova",
+            "shokugeki-no-souma-san-no-sara",
+            "shokugeki-no-souma-san-no-sara--tootsuki-resshahen",
+            "shokugeki-no-souma-shin-no-sara"
+        ]
+    },
+    {
+        "group-91": [
+            "handakun",
+            "barakamon"
+        ]
+    },
+    {
+        "group-92": [
+            "zombie-land-saga",
+            "zombie-land-saga-revenge"
+        ]
+    },
+    {
+        "group-94": [
+            "kizumonogatari-i-tekketsuhen",
+            "kizumonogatari-ii-nekketsuhen",
+            "kizumonogatari-iii-reiketsuhen",
+            "nekomonogatari-kuro",
+            "bakemonogatari",
+            "nisemonogatari",
+            "monogatari-series-second-season",
+            "tsukimonogatari",
+            "owarimonogatari",
+            "owarimonogatari-ge",
+            "zoku-owarimonogatari",
+            "hanamonogatari",
+            "koyomimonogatari"
+        ]
+    },
+    {
+        "group-96": [
+            "shouwa-genroku-rakugo-shinjuu",
+            "shouwa-genroku-rakugo-shinjuu-sukeroku-futatabihen"
+        ]
+    },
+    {
+        "group-98": [
+            "koutetsujou-no-kabaneri",
+            "koutetsujou-no-kabaneri-unato-kessen"
+        ]
+    },
+    {
+        "group-101": [
+            "darker-than-black-kuro-no-keiyakusha",
+            "darker-than-black-kuro-no-keiyakusha--sakura-no-hana-no-mankai-no-shita",
+            "darker-than-black-kuro-no-keiyakusha-gaiden",
+            "darker-than-black-ryuusei-no-gemini"
+        ]
+    },
+    {
+        "group-103": [
+            "satsuriku-no-tenshi",
+            "satsuriku-no-tenshi-ona"
+        ]
+    },
+    {
+        "group-106": [
+            "nichijou-episode-0",
+            "nichijou"
+        ]
+    },
+    {
+        "group-108": [
+            "isekai-quartet",
+            "isekai-quartet-2"
+        ]
+    },
+    {
+        "group-111": [
+            "koi-to-uso",
+            "koi-to-uso-ova"
+        ]
+    },
+    {
+        "group-114": [
+            "amagami-ss",
+            "amagami-ss-plus",
+            "seiren"
+        ]
+    },
+    {
+        "group-117": [
+            "sakamoto-desu-ga",
+            "sakamoto-desu-ga-the-movie"
+        ]
+    },
+    {
+        "group-119": [
+            "full-metal-panic",
+            "full-metal-panic-the-second-raid",
+            "full-metal-panic-invisible-victory"
+        ]
+    },
+    {
+        "group-120": [
+            "kenpuu-denki-berserk",
+            "berserk",
+            "berserk-2"
+        ]
+    },
+    {
+        "group-122": [
+            "date-a-live",
+            "date-a-live-date-to-date",
+            "date-a-live-ii",
+            "date-a-live-ii-kurumi-star-festival",
+            "date-a-live-movie-mayuri-judgement",
+            "date-a-live-iii"
+        ]
+    },
+    {
+        "group-123": [
+            "fategrand-order-first-order",
+            "fategrand-order-shinsei-entaku-ryouiki-camelot--wandering-agateram",
+            "fategrand-order-shinsei-entaku-ryouiki-camelot--paladin-agateram",
+            "fategrand-order-zettai-majuu-sensen-babylonia"
+        ]
+    },
+    {
+        "group-124": [
+            "grisaia-no-kajitsu",
+            "grisaia-no-meikyuu",
+            "grisaia-no-rakuen",
+            "grisaia-phantom-trigger"
+        ]
+    }
+]
