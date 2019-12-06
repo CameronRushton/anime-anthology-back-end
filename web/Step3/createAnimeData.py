@@ -2,12 +2,7 @@ import os
 import json
 from shutil import copy
 
-
 DEBUG = True
-
-def logger(log):
-    if DEBUG:
-        print(log)
 
 
 def get_data_from_file(dataFile):

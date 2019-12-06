@@ -3,6 +3,7 @@
 Usage: 
 
 Prerequisites:
+install and run mongodb https://docs.mongodb.com/v3.4/tutorial/install-mongodb-on-windows/
 chromedriver.exe for your version of chrome
 python 3.6+
 

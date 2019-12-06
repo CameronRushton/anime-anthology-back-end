@@ -1,12 +1,12 @@
 import os
 import re
 import requests
-import stat
+# import stat
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.common.exceptions import NoSuchElementException
 from webdrivermanager import ChromeDriverManager
-from subprocess import check_output
+# from subprocess import check_output
 
 
 class AnilistScraper:
@@ -35,6 +35,7 @@ class AnilistScraper:
         self.browser = webdriver.Chrome(executable_path=bit64, options=options)  # Replace with .Firefox(), or with the browser of your choice
         self.browser.implicitly_wait(1)  # IMPORTANT: Keep this at least one second to not get flagged as a bot - it's also a hack to let the page JS load
 
+    @staticmethod
     def __create_resource_path__(self, anime_name):
         anime_name = anime_name.lower()
         try:
@@ -49,6 +50,7 @@ class AnilistScraper:
                 return f'../anime/{directory}/'
         return f'../anime/{anime_name}/'
 
+    @staticmethod
     def __get_urls_from_file__(self, file_path):
         urls = []
         # Grab every url with 'http' in it and extract anime name from the url
@@ -67,7 +69,8 @@ class AnilistScraper:
                     urls.append(word)
         return urls
 
-    def __get_anime_name__(self, url):
+    @staticmethod
+    def __trim_anime_name_from_url__(url):
         # if there is a newline character at the end, remove it
         if "\n" == url[-1]:
             url = url[:-2]
@@ -171,6 +174,9 @@ class AnilistScraper:
         data_file.close()
         return 0
 
+    def update_anime_data_in_file(self, file_path):
+        self.download_anime(file_path, update_data=True, update_box=False, update_cover=False)
+
     # file_path is a file with a list of URLs to anilist.co like so:
     # https://anilist.co/anime/5114/Fullmetal-Alchemist/
     # https://anilist.co/anime/105333/Dr-STONE/
@@ -193,7 +199,7 @@ class AnilistScraper:
 
         i = 0
         for url in urls:
-            anime_name = self.__get_anime_name__(url)
+            anime_name = self.__trim_anime_name_from_url__(url)
             print("Found ", anime_name)
             resource_count = 0
             print("INFO: Downloading image and page data for ", anime_name, "...")
