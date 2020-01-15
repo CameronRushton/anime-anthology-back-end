@@ -3,3 +3,4 @@ flask_restplus
 flask_cors
 pymongo
 bcrypt
+hashids

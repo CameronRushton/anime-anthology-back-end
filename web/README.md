@@ -29,3 +29,26 @@ https://anilist.co/anime/103572/5Toubun-no-Hanayome/ My mandatory, custom descri
 6. Copy uploadToWebsite/ to anime-anthology repo /assets and rename uploadToWebsite/ to anime/
 
 7. Run the website using au run --watch (see anime-anthology repo for details)
+
+
+UPDATE Dec 6, 2019
+run 'docker-compose build'
+'docker-compose up'
+to start mongodb and web app
+
+to log into the mongo db,
+'docker ps'
+copy the container ID
+'docker exec -it <containerID> bash'
+'mongo'
+You can now issue mongo commands to see the db(s)
+See the following link for more info
+https://docs.mongodb.com/manual/reference/mongo-shell/
+
+Quick reference:
+db -> shows all dbs
+use <db name> -> switches db
+show collections -> shows collections
+db.<collection name>.find() -> shows all entries in collection (table)
+
+

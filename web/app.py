@@ -15,6 +15,7 @@ from flask import Flask, jsonify, request
 # from flask_restful import Api, Resource
 from flask_restplus import Api, Resource, fields
 from flask_cors import CORS
+from hashids import Hashids #https://github.com/davidaurelio/hashids-python & https://hashids.org/python/
 from bson.json_util import dumps
 from pymongo import MongoClient
 import bcrypt
@@ -22,6 +23,7 @@ import bcrypt
 app = Flask(__name__)
 CORS(app, resources={r"/*": {"origins": "*"}})
 # api = Api(app)
+hashids = Hashids()
 
 client = MongoClient("mongodb://saadb:27017")
 db = client.saa
