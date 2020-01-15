@@ -1,0 +1,6 @@
+Anime IDs not found in your anime folder: (please change the files to the correct name defined in your anthology; case doesn't matter or download them with the scraper).
+Please rebuild your JSON with the changes!
+Gakuen-Mokushiroku-HIGHSCHOOL-OF-THE-DEAD
+Zombie-Land-Saga
+Owarimonogatari-Ge
+Koyomimonogatari

@@ -1,0 +1,4 @@
+venv/
+web/chromedriver.exe
+.idea/
+web/anime/
